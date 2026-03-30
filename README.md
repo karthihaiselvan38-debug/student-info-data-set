@@ -6,7 +6,7 @@ Objectives Analyze student academic data Calculate key statistics (average, tota
 
 Technologies Used Python : Pandas NumPy Matplotlib / Seaborn Jupyter Notebook / VS Code
 
-Project Structure Student-Data-Analysis/ │ ├── data/ # Dataset files (CSV, Excel, etc.) ├── notebooks/ # Jupyter notebooks ├── scripts/ # Python scripts ├── outputs/ # Generated graphs and results └── README.md # Project documentation
+Project Structure Student-Data-Analysis/  data/ # Dataset files (CSV, Excel, etc.) notebooks/ # Jupyter notebooks  scripts/ # Python scripts  outputs/ # Generated graphs and results  README.md # Project documentation
 
 Features Data cleaning and preprocessing Statistical analysis Data visualization (bar chart, line graph, pie chart) Student performance comparison Summary report generation
 
